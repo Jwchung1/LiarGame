@@ -10,7 +10,7 @@ using Unity.VisualScripting;
 using System.Linq;
 using System.Diagnostics.Contracts;
 using System.Runtime.CompilerServices;
-
+// github change
 //이거 마스터에서만 돌아가게하고 게임상태 동기화를 RPC로 하게끔 만들어야겠다.
 public class GM : MonoBehaviourPunCallbacks
 {
